@@ -7,7 +7,7 @@ import java.util.Arrays;
 public class Main {
 
 	//главный метод класса
-		public static void main(String[] args) {
+		public static void main(String[] args) {  // ТУТ ВСЕ ПРАВИЛЬНО
 			// s1, s2, s3 - объекты класса Student
 			Student s1 = new Student();
 			s1.setFirstName("Ivan");
